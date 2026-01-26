@@ -1,0 +1,1 @@
+from gymnasium.envs.colorization.colorization import ColorizationEnv

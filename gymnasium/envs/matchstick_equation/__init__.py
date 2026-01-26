@@ -1,0 +1,1 @@
+from gymnasium.envs.matchstick_equation.matchstick_equation import MatchstickEquationEnv

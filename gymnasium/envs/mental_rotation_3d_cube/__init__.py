@@ -1,0 +1,1 @@
+from gymnasium.envs.mental_rotation_3d_cube.mental_rotation_3d_cube import MentalRotation3DCubeEnv

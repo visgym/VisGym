@@ -1,0 +1,1 @@
+from gymnasium.envs.mental_rotation_3d_objaverse.mental_rotation_3d_objaverse import MentalRotation3DObjaverseEnv

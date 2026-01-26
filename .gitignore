@@ -1,0 +1,78 @@
+*.swp
+*.pyc
+*.py~
+.DS_Store
+.cache
+.pytest_cache/
+__pycache__/
+episodes/
+test_set_default
+test_set_default_v1
+test_set_default_v2
+test_set_default_v3
+test_set_*
+*.gz
+launch.json
+inference/results
+eval_final
+visual_*
+*.tar
+__pycache__
+from_states
+initial_states
+from_seed
+# Setuptools distribution and build folders.
+/dist/
+/build
+/wheels
+/wheelhouse
+
+# Virtualenv
+/env
+/venv
+/.venv
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+*.egg-info
+*.sublime-project
+*.sublime-workspace
+
+logs/
+
+.ipynb_checkpoints
+ghostdriver.log
+
+junk
+MUJOCO_LOG.txt
+
+rllab_mujoco
+
+tutorial/*.html
+
+# IDE files
+.eggs
+.tox
+
+# PyCharm project files
+.idea
+vizdoom.ini
+
+# Data generated from pytest
+save_videos*/
+
+.test_scripts
+inference/renders
+inference/runs
+inference/eval_final
+inference/eval_final_hard
+# demos/episode_*.json
+demos/conversations
+demos/episodes*
+/data
+*_ignored*
+vlm_demos/trajectories/*
+*.out
+inference/eval
+hf_token.pwd
+vlm_demos

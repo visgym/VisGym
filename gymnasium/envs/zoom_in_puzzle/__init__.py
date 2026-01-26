@@ -1,0 +1,1 @@
+from gymnasium.envs.zoom_in_puzzle.zoom_in_puzzle import ZoomInPuzzleEnv
