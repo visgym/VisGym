@@ -4,11 +4,9 @@
 VisGym is a gymnasium of **17 visually interactive, long-horizon environments** for evaluating, diagnosing, and training vision–language models (VLMs) in **multi-step visual decision-making** across symbolic puzzles, real-image understanding, navigation, and manipulation.
 
 <p align="center">
-  <video width="100%" controls>
-    <source src="assets/teaser.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <video src="https://github.com/user-attachments/assets/6aea2ded-b15d-428b-81b8-24889c068240" width="100%" controls></video>
 </p>
+
 
 <p align="center">
   <a href="https://visgym.github.io/">🌐 Webpage</a> •
