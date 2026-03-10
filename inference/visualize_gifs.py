@@ -17,11 +17,11 @@ You can point --input to:
 Examples:
   # Single episode
   python inference/visualize_gifs.py \
-    --input /home/jiaxin/VLM-Gym/inference/eval/openai_gpt_5_v4_new/colorization__ColorizationEnv-v2/seed10716_episode1233051550/episode_stats.json
+    --input VisGym/inference/eval/openai_gpt_5_v4_new/colorization__ColorizationEnv-v2/seed10716_episode1233051550/episode_stats.json
 
   # All episodes under a root
   python inference/visualize_gifs.py \
-    --input /home/junyi42/VLM-Gym/inference/eval/openai_gpt_5_v5 --out-root /home/junyi42/VLM-Gym/inference/results/openai_gpt_5_v5
+    --input VisGym/inference/eval/openai_gpt_5_v5 --out-root VisGym/inference/results/openai_gpt_5_v5
 
 Output:
   By default, writes episode.gif inside each episode directory.

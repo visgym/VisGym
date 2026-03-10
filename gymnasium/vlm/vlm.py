@@ -27,7 +27,7 @@ class BaseVLM(ABC):
         # note that it needs to keep as pairs of user and assistant messages
         self.conversation_history = self.conversation_history[-num_interaction_history*2:]
         # make sure earliest message comes from user
-        assert self.conversation_history[0]["role"] == "user" # TODO: Junyi if you see an assert failure, it means i guessed the wrong format for the conversation history
+        assert self.conversation_history[0]["role"] == "user" 
         # add instructions to the text part of the user message to its existing text
         if instructions not in self.conversation_history[0]["content"][1]["text"]:
             self.conversation_history[0]["content"][1]["text"] = re.sub(r'(?s)Environment feedback:.*?(?=This is step)', '', self.conversation_history[0]["content"][1]["text"])
