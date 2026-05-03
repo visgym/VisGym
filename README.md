@@ -1,5 +1,9 @@
-# VisGym
-**Diverse, Customizable, Scalable Environments for Multimodal Agents**
+# VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents
+
+![Best Paper Award](https://img.shields.io/badge/🏆%20ICLR%202026%20Workshop%20on%20Multimodal%20Intelligence-Best%20Paper%20Award%20%7C%20Top%201.2%25-red)
+![ICLR Workshop Oral](https://img.shields.io/badge/ICLR%202026%20Workshop%20on%20Efficient%20Spatial%20Reasoning-Oral-blue)
+
+
 
 VisGym is a gymnasium of **17 visually interactive, long-horizon environments** for evaluating, diagnosing, and training vision–language models (VLMs) in **multi-step visual decision-making** across symbolic puzzles, real-image understanding, navigation, and manipulation.
 
