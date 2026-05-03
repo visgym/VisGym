@@ -3,21 +3,17 @@
 ![Best Paper Award](https://img.shields.io/badge/🏆%20ICLR%202026%20Workshop%20on%20Multimodal%20Intelligence-Best%20Paper%20Award%20%7C%20Top%201.2%25-red)
 ![ICLR Workshop Oral](https://img.shields.io/badge/ICLR%202026%20Workshop%20on%20Efficient%20Spatial%20Reasoning-Oral-blue)
 
-
-
-VisGym is a gymnasium of **17 visually interactive, long-horizon environments** for evaluating, diagnosing, and training vision–language models (VLMs) in **multi-step visual decision-making** across symbolic puzzles, real-image understanding, navigation, and manipulation.
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/6aea2ded-b15d-428b-81b8-24889c068240" width="100%" controls></video>
-</p>
-
-
 <p align="center">
   <a href="https://visgym.github.io/">🌐 Webpage</a> •
   <a href="https://arxiv.org/abs/2601.16973">🎓 arXiv</a> •
   <a href="https://huggingface.co/VisGym">🤗 Datasets/Models/Checkpoints</a>
 </p>
 
+VisGym is a gymnasium of **17 visually interactive, long-horizon environments** for evaluating, diagnosing, and training vision–language models (VLMs) in **multi-step visual decision-making** across symbolic puzzles, real-image understanding, navigation, and manipulation.
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/6aea2ded-b15d-428b-81b8-24889c068240" width="100%" controls></video>
+</p>
 
 
 ## Contents
